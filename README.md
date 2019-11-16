@@ -1,5 +1,4 @@
-# commandattime
-Execute a linux command or script at specific time
+# Execute Linux command at scecific time
 
 #Example 
 Remove all files from a directory called filesContainer from Desktop everyday at 23:59
