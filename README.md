@@ -28,3 +28,13 @@ Choose editor and add this line
 +————————- Minute (0–59)
   
 ```
+
+List of entries 
+
+```
+# /var/spool/cron/crontabs 
+
+crontab -l
+```
+
+
