@@ -16,7 +16,7 @@ Choose editor and add this line
 
 59 23 * * * rm -r /home/user/Desktop/filesContainer
 
-#from https://ss64.com/bash/crontab.html
+
 
 * * * * *  [UserName] Command_to_execute
 - – – – -
